@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643296651939",
+    "project_id": "crud-d2f00",
+    "storage_bucket": "crud-d2f00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643296651939:android:7545df95cc2343b5ed6d16",
+        "android_client_info": {
+          "package_name": "com.magtech.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSB_JKxjPSXAuOOA9WFAiUrJSw7Jvc-9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
